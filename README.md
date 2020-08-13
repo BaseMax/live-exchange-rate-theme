@@ -2,9 +2,17 @@
 
 A website template for live exchange rates in the free market.
 
-![live exchange theme](demo-index.jpg)
+## Pages
 
-![live exchange theme](demo-single.jpg)
+- Main page (https://basemax.github.io/live-exchange-theme/)
+- Single/Post page (https://basemax.github.io/live-exchange-theme/single.html)
+- History page (https://basemax.github.io/live-exchange-theme/history.html)
+
+### Screenshots
+
+[![live exchange theme](demo-index.jpg)](https://basemax.github.io/live-exchange-theme/)
+
+[![live exchange theme](demo-single.jpg)](https://basemax.github.io/live-exchange-theme/)
 
 ---------
 

@@ -1,4 +1,4 @@
-# live-exchange-theme
+# live-exchange-rate-theme
 
 A website template for live exchange rates in the free market.
 

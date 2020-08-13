@@ -1,0 +1,53 @@
+/* Max Base */
+/* https://github.com/BaseMax/live-exchange-theme/upload/master */
+body {
+	font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+* {
+	padding: 0px;
+	margin: 0px;
+}
+.container {
+	width: 60%;
+	height: auto;
+	margin: auto;
+}
+.table {
+	width: 100%;
+	border-radius: .25rem;
+}
+.site-title {
+	font-size: 47px;
+}
+.site-subtitle {
+	position: relative;
+	top: -20px;
+	text-align: center;
+	font-size: 16px;
+	padding: 2px;
+	display: inline-block;
+	color: white;
+	width: auto;
+	background-color: #007bff;
+	border-radius: 4px;
+}
+.table thead tr {
+	background-color: #007bff;
+	color: white;
+	border-bottom: 4px;
+}
+.table thead tr th {
+	padding: 7px;
+	border-top-left-radius: 7px;
+	border-top-right-radius: 7px;
+}
+.table td, .table th {
+	padding: 10px;
+	border: 1px solid rgba(0,0,0,.125);
+}
+hr {
+	border: 0.5px solid rgba(128, 128, 128, 0.1);
+}
+footer, footer a{
+	color: gray;
+}

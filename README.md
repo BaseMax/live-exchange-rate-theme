@@ -2,6 +2,10 @@
 
 A website template for live exchange rates in the free market.
 
+![live exchange theme](demo-index.jpg)
+
+![live exchange theme](demo-single.jpg)
+
 ---------
 
 # Max Base

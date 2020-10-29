@@ -4,9 +4,9 @@ A website template for live exchange rates in the free market.
 
 ## Pages
 
-- Main page (https://basemax.github.io/live-exchange-theme/)
-- Single/Post page (https://basemax.github.io/live-exchange-theme/single.html)
-- History page (https://basemax.github.io/live-exchange-theme/history.html)
+- Main page (https://basemax.github.io/live-exchange-rate-theme/)
+- Single/Post page (https://basemax.github.io/live-exchange-rate-theme/single.html)
+- History page (https://basemax.github.io/live-exchange-rate-theme/history.html)
 
 ### Screenshots
 
